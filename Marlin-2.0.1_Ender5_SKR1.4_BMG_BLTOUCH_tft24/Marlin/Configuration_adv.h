@@ -1150,7 +1150,7 @@
      *
      * :[ 'LCD', 'ONBOARD', 'CUSTOM_CABLE' ]
      */
-    #define ONBOARD
+    #define LCD
   #endif
 
 #endif // SDSUPPORT
